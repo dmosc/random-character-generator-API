@@ -1,0 +1,1075 @@
+[
+  {
+    "_id": "5d299a853d1d85c017cc3e01",
+    "name": "Earth (C-137)",
+    "type": "Planet",
+    "dimension": "Dimension C-137",
+    "residents": [
+      "5d299c853d1d85c017cc3e38",
+      "5d299c853d1d85c017cc3e45",
+      "5d299c853d1d85c017cc3e71",
+      "5d299c853d1d85c017cc3e82",
+      "5d299c853d1d85c017cc3e83",
+      "5d299c853d1d85c017cc3e92",
+      "5d299c853d1d85c017cc3112",
+      "5d299c853d1d85c017cc3114",
+      "5d299c853d1d85c017cc3116",
+      "5d299c853d1d85c017cc3117",
+      "5d299c853d1d85c017cc3120",
+      "5d299c853d1d85c017cc3127",
+      "5d299c853d1d85c017cc3155",
+      "5d299c853d1d85c017cc3169",
+      "5d299c853d1d85c017cc3175",
+      "5d299c853d1d85c017cc3179",
+      "5d299c853d1d85c017cc3186",
+      "5d299c853d1d85c017cc3201",
+      "5d299c853d1d85c017cc3216",
+      "5d299c853d1d85c017cc3239",
+      "5d299c853d1d85c017cc3271",
+      "5d299c853d1d85c017cc3302",
+      "5d299c853d1d85c017cc3303",
+      "5d299c853d1d85c017cc3338",
+      "5d299c853d1d85c017cc3343",
+      "5d299c853d1d85c017cc3356",
+      "5d299c853d1d85c017cc3394"
+    ],
+    "created": "2017-11-10T12:42:04.162Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e02",
+    "name": "Abadango",
+    "type": "Cluster",
+    "dimension": "unknown",
+    "residents": ["5d299c853d1d85c017cc3e06"],
+    "created": "2017-11-10T13:06:38.182Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e03",
+    "name": "Citadel of Ricks",
+    "type": "Space station",
+    "dimension": "unknown",
+    "residents": [
+      "5d299c853d1d85c017cc3e08",
+      "5d299c853d1d85c017cc3e14",
+      "5d299c853d1d85c017cc3e15",
+      "5d299c853d1d85c017cc3e18",
+      "5d299c853d1d85c017cc3e21",
+      "5d299c853d1d85c017cc3e22",
+      "5d299c853d1d85c017cc3e27",
+      "5d299c853d1d85c017cc3e42",
+      "5d299c853d1d85c017cc3e43",
+      "5d299c853d1d85c017cc3e44",
+      "5d299c853d1d85c017cc3e48",
+      "5d299c853d1d85c017cc3e53",
+      "5d299c853d1d85c017cc3e56",
+      "5d299c853d1d85c017cc3e61",
+      "5d299c853d1d85c017cc3e69",
+      "5d299c853d1d85c017cc3e72",
+      "5d299c853d1d85c017cc3e73",
+      "5d299c853d1d85c017cc3e74",
+      "5d299c853d1d85c017cc3e77",
+      "5d299c853d1d85c017cc3e78",
+      "5d299c853d1d85c017cc3e85",
+      "5d299c853d1d85c017cc3e86",
+      "5d299c853d1d85c017cc3e95",
+      "5d299c853d1d85c017cc3118",
+      "5d299c853d1d85c017cc3119",
+      "5d299c853d1d85c017cc3123",
+      "5d299c853d1d85c017cc3135",
+      "5d299c853d1d85c017cc3143",
+      "5d299c853d1d85c017cc3152",
+      "5d299c853d1d85c017cc3164",
+      "5d299c853d1d85c017cc3165",
+      "5d299c853d1d85c017cc3187",
+      "5d299c853d1d85c017cc3200",
+      "5d299c853d1d85c017cc3206",
+      "5d299c853d1d85c017cc3209",
+      "5d299c853d1d85c017cc3215",
+      "5d299c853d1d85c017cc3220",
+      "5d299c853d1d85c017cc3229",
+      "5d299c853d1d85c017cc3231",
+      "5d299c853d1d85c017cc3235",
+      "5d299c853d1d85c017cc3267",
+      "5d299c853d1d85c017cc3274",
+      "5d299c853d1d85c017cc3278",
+      "5d299c853d1d85c017cc3281",
+      "5d299c853d1d85c017cc3283",
+      "5d299c853d1d85c017cc3284",
+      "5d299c853d1d85c017cc3285",
+      "5d299c853d1d85c017cc3286",
+      "5d299c853d1d85c017cc3287",
+      "5d299c853d1d85c017cc3288",
+      "5d299c853d1d85c017cc3289",
+      "5d299c853d1d85c017cc3291",
+      "5d299c853d1d85c017cc3294",
+      "5d299c853d1d85c017cc3295",
+      "5d299c853d1d85c017cc3298",
+      "5d299c853d1d85c017cc3299",
+      "5d299c853d1d85c017cc3322",
+      "5d299c853d1d85c017cc3325",
+      "5d299c853d1d85c017cc3328",
+      "5d299c853d1d85c017cc3330",
+      "5d299c853d1d85c017cc3345",
+      "5d299c853d1d85c017cc3359",
+      "5d299c853d1d85c017cc3366",
+      "5d299c853d1d85c017cc3378",
+      "5d299c853d1d85c017cc3385",
+      "5d299c853d1d85c017cc3389",
+      "5d299c853d1d85c017cc3392",
+      "5d299c853d1d85c017cc3461",
+      "5d299c853d1d85c017cc3462",
+      "5d299c853d1d85c017cc3463",
+      "5d299c853d1d85c017cc3464",
+      "5d299c853d1d85c017cc3465",
+      "5d299c853d1d85c017cc3466",
+      "5d299c853d1d85c017cc3472",
+      "5d299c853d1d85c017cc3473",
+      "5d299c853d1d85c017cc3474",
+      "5d299c853d1d85c017cc3475",
+      "5d299c853d1d85c017cc3476",
+      "5d299c853d1d85c017cc3477",
+      "5d299c853d1d85c017cc3478",
+      "5d299c853d1d85c017cc3479",
+      "5d299c853d1d85c017cc3480",
+      "5d299c853d1d85c017cc3481",
+      "5d299c853d1d85c017cc3482",
+      "5d299c853d1d85c017cc3483",
+      "5d299c853d1d85c017cc3484",
+      "5d299c853d1d85c017cc3485",
+      "5d299c853d1d85c017cc3486",
+      "5d299c853d1d85c017cc3487",
+      "5d299c853d1d85c017cc3488",
+      "5d299c853d1d85c017cc3489"
+    ],
+    "created": "2017-11-10T13:08:13.191Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e04",
+    "name": "Worldender's lair",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [
+      "5d299c853d1d85c017cc3e10",
+      "5d299c853d1d85c017cc3e81",
+      "5d299c853d1d85c017cc3208",
+      "5d299c853d1d85c017cc3226",
+      "5d299c853d1d85c017cc3340",
+      "5d299c853d1d85c017cc3362",
+      "5d299c853d1d85c017cc3375",
+      "5d299c853d1d85c017cc3382",
+      "5d299c853d1d85c017cc3395"
+    ],
+    "created": "2017-11-10T13:08:20.569Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e05",
+    "name": "Anatomy Park",
+    "type": "Microverse",
+    "dimension": "Dimension C-137",
+    "residents": [
+      "5d299c853d1d85c017cc3e12",
+      "5d299c853d1d85c017cc3e17",
+      "5d299c853d1d85c017cc3e96",
+      "5d299c853d1d85c017cc3e97",
+      "5d299c853d1d85c017cc3e98",
+      "5d299c853d1d85c017cc3e99",
+      "5d299c853d1d85c017cc3100",
+      "5d299c853d1d85c017cc3101",
+      "5d299c853d1d85c017cc3108",
+      "5d299c853d1d85c017cc3268",
+      "5d299c853d1d85c017cc3300"
+    ],
+    "created": "2017-11-10T13:08:46.060Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e06",
+    "name": "Interdimensional Cable",
+    "type": "TV",
+    "dimension": "unknown",
+    "residents": [
+      "5d299c853d1d85c017cc3e20",
+      "5d299c853d1d85c017cc3e28",
+      "5d299c853d1d85c017cc3e29",
+      "5d299c853d1d85c017cc3e34",
+      "5d299c853d1d85c017cc3e49",
+      "5d299c853d1d85c017cc3e51",
+      "5d299c853d1d85c017cc3e54",
+      "5d299c853d1d85c017cc3121",
+      "5d299c853d1d85c017cc3126",
+      "5d299c853d1d85c017cc3129",
+      "5d299c853d1d85c017cc3134",
+      "5d299c853d1d85c017cc3136",
+      "5d299c853d1d85c017cc3145",
+      "5d299c853d1d85c017cc3157",
+      "5d299c853d1d85c017cc3173",
+      "5d299c853d1d85c017cc3184",
+      "5d299c853d1d85c017cc3205",
+      "5d299c853d1d85c017cc3207",
+      "5d299c853d1d85c017cc3214",
+      "5d299c853d1d85c017cc3222",
+      "5d299c853d1d85c017cc3223",
+      "5d299c853d1d85c017cc3224",
+      "5d299c853d1d85c017cc3225",
+      "5d299c853d1d85c017cc3250",
+      "5d299c853d1d85c017cc3254",
+      "5d299c853d1d85c017cc3260",
+      "5d299c853d1d85c017cc3264",
+      "5d299c853d1d85c017cc3266",
+      "5d299c853d1d85c017cc3275",
+      "5d299c853d1d85c017cc3277",
+      "5d299c853d1d85c017cc3279",
+      "5d299c853d1d85c017cc3312",
+      "5d299c853d1d85c017cc3314",
+      "5d299c853d1d85c017cc3315",
+      "5d299c853d1d85c017cc3316",
+      "5d299c853d1d85c017cc3317",
+      "5d299c853d1d85c017cc3318",
+      "5d299c853d1d85c017cc3334",
+      "5d299c853d1d85c017cc3351",
+      "5d299c853d1d85c017cc3358",
+      "5d299c853d1d85c017cc3367",
+      "5d299c853d1d85c017cc3370",
+      "5d299c853d1d85c017cc3373",
+      "5d299c853d1d85c017cc3403",
+      "5d299c853d1d85c017cc3406",
+      "5d299c853d1d85c017cc3407",
+      "5d299c853d1d85c017cc3408",
+      "5d299c853d1d85c017cc3409",
+      "5d299c853d1d85c017cc3410",
+      "5d299c853d1d85c017cc3411",
+      "5d299c853d1d85c017cc3412",
+      "5d299c853d1d85c017cc3413",
+      "5d299c853d1d85c017cc3414",
+      "5d299c853d1d85c017cc3415",
+      "5d299c853d1d85c017cc3416",
+      "5d299c853d1d85c017cc3417",
+      "5d299c853d1d85c017cc3418",
+      "5d299c853d1d85c017cc3457",
+      "5d299c853d1d85c017cc3458",
+      "5d299c853d1d85c017cc3459"
+    ],
+    "created": "2017-11-10T13:09:09.102Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e07",
+    "name": "Immortality Field Resort",
+    "type": "Resort",
+    "dimension": "unknown",
+    "residents": [
+      "5d299c853d1d85c017cc3e23",
+      "5d299c853d1d85c017cc3204",
+      "5d299c853d1d85c017cc3320"
+    ],
+    "created": "2017-11-10T13:09:17.136Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e08",
+    "name": "Post-Apocalyptic Earth",
+    "type": "Planet",
+    "dimension": "Post-Apocalyptic Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3e25",
+      "5d299c853d1d85c017cc3e52",
+      "5d299c853d1d85c017cc3e68",
+      "5d299c853d1d85c017cc3110",
+      "5d299c853d1d85c017cc3111",
+      "5d299c853d1d85c017cc3140",
+      "5d299c853d1d85c017cc3156",
+      "5d299c853d1d85c017cc3228",
+      "5d299c853d1d85c017cc3323",
+      "5d299c853d1d85c017cc3342"
+    ],
+    "created": "2017-11-10T13:09:22.551Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e09",
+    "name": "Purge Planet",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3e26",
+      "5d299c853d1d85c017cc3139",
+      "5d299c853d1d85c017cc3202",
+      "5d299c853d1d85c017cc3273"
+    ],
+    "created": "2017-11-10T13:09:29.566Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e10",
+    "name": "Venzenulon 7",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": ["5d299c853d1d85c017cc3e33"],
+    "created": "2017-11-18T11:21:51.643Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e11",
+    "name": "Bepis 9",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": ["5d299c853d1d85c017cc3e35"],
+    "created": "2017-11-18T11:26:03.325Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e12",
+    "name": "Cronenberg Earth",
+    "type": "Planet",
+    "dimension": "Cronenberg Dimension",
+    "residents": [null],
+    "created": "2017-11-18T11:29:27.857Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e13",
+    "name": "Nuptia 4",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [
+      "5d299c853d1d85c017cc3e40",
+      "5d299c853d1d85c017cc3e55",
+      "5d299c853d1d85c017cc3131",
+      "5d299c853d1d85c017cc3132",
+      "5d299c853d1d85c017cc3146",
+      "5d299c853d1d85c017cc3148",
+      "5d299c853d1d85c017cc3163",
+      "5d299c853d1d85c017cc3178",
+      "5d299c853d1d85c017cc3310",
+      "5d299c853d1d85c017cc3386",
+      "5d299c853d1d85c017cc3387"
+    ],
+    "created": "2017-11-18T11:30:29.780Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e14",
+    "name": "Giant's Town",
+    "type": "Fantasy town",
+    "dimension": "Fantasy Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3e89",
+      "5d299c853d1d85c017cc3399",
+      "5d299c853d1d85c017cc3400"
+    ],
+    "created": "2017-11-18T11:31:15.248Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e15",
+    "name": "Bird World",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [null],
+    "created": "2017-11-18T11:32:26.752Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e16",
+    "name": "St. Gloopy Noops Hospital",
+    "type": "Space station",
+    "dimension": "unknown",
+    "residents": [
+      "5d299c853d1d85c017cc3105",
+      "5d299c853d1d85c017cc3263",
+      "5d299c853d1d85c017cc3321",
+      "5d299c853d1d85c017cc3383",
+      "5d299c853d1d85c017cc3384",
+      "5d299c853d1d85c017cc3454",
+      "5d299c853d1d85c017cc3455",
+      "5d299c853d1d85c017cc3456",
+      "5d299c853d1d85c017cc3460"
+    ],
+    "created": "2017-11-18T11:43:20.075Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e17",
+    "name": "Earth (5-126)",
+    "type": "Planet",
+    "dimension": "Dimension 5-126",
+    "residents": [null],
+    "created": "2017-11-18T11:41:08.486Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e18",
+    "name": "Mr. Goldenfold's dream",
+    "type": "Dream",
+    "dimension": "Dimension C-137",
+    "residents": [
+      "5d299c853d1d85c017cc3e63",
+      "5d299c853d1d85c017cc3e80",
+      "5d299c853d1d85c017cc3221",
+      "5d299c853d1d85c017cc3246",
+      "5d299c853d1d85c017cc3304",
+      "5d299c853d1d85c017cc3305",
+      "5d299c853d1d85c017cc3306",
+      "5d299c853d1d85c017cc3396"
+    ],
+    "created": "2017-11-18T11:46:22.933Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e19",
+    "name": "Gromflom Prime",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [null],
+    "created": "2017-11-18T11:39:52.165Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e20",
+    "name": "Earth (Replacement Dimension)",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3e01",
+      "5d299c853d1d85c017cc3e02",
+      "5d299c853d1d85c017cc3e03",
+      "5d299c853d1d85c017cc3e04",
+      "5d299c853d1d85c017cc3e05",
+      "5d299c853d1d85c017cc3e09",
+      "5d299c853d1d85c017cc3e11",
+      "5d299c853d1d85c017cc3e13",
+      "5d299c853d1d85c017cc3e16",
+      "5d299c853d1d85c017cc3e31",
+      "5d299c853d1d85c017cc3e32",
+      "5d299c853d1d85c017cc3e50",
+      "5d299c853d1d85c017cc3e58",
+      "5d299c853d1d85c017cc3e59",
+      "5d299c853d1d85c017cc3e64",
+      "5d299c853d1d85c017cc3e66",
+      "5d299c853d1d85c017cc3e76",
+      "5d299c853d1d85c017cc3e88",
+      "5d299c853d1d85c017cc3103",
+      "5d299c853d1d85c017cc3107",
+      "5d299c853d1d85c017cc3109",
+      "5d299c853d1d85c017cc3113",
+      "5d299c853d1d85c017cc3115",
+      "5d299c853d1d85c017cc3124",
+      "5d299c853d1d85c017cc3128",
+      "5d299c853d1d85c017cc3137",
+      "5d299c853d1d85c017cc3138",
+      "5d299c853d1d85c017cc3141",
+      "5d299c853d1d85c017cc3147",
+      "5d299c853d1d85c017cc3149",
+      "5d299c853d1d85c017cc3151",
+      "5d299c853d1d85c017cc3154",
+      "5d299c853d1d85c017cc3166",
+      "5d299c853d1d85c017cc3167",
+      "5d299c853d1d85c017cc3170",
+      "5d299c853d1d85c017cc3171",
+      "5d299c853d1d85c017cc3172",
+      "5d299c853d1d85c017cc3180",
+      "5d299c853d1d85c017cc3181",
+      "5d299c853d1d85c017cc3182",
+      "5d299c853d1d85c017cc3185",
+      "5d299c853d1d85c017cc3189",
+      "5d299c853d1d85c017cc3190",
+      "5d299c853d1d85c017cc3210",
+      "5d299c853d1d85c017cc3217",
+      "5d299c853d1d85c017cc3218",
+      "5d299c853d1d85c017cc3219",
+      "5d299c853d1d85c017cc3227",
+      "5d299c853d1d85c017cc3230",
+      "5d299c853d1d85c017cc3233",
+      "5d299c853d1d85c017cc3234",
+      "5d299c853d1d85c017cc3236",
+      "5d299c853d1d85c017cc3237",
+      "5d299c853d1d85c017cc3240",
+      "5d299c853d1d85c017cc3241",
+      "5d299c853d1d85c017cc3243",
+      "5d299c853d1d85c017cc3245",
+      "5d299c853d1d85c017cc3248",
+      "5d299c853d1d85c017cc3251",
+      "5d299c853d1d85c017cc3255",
+      "5d299c853d1d85c017cc3259",
+      "5d299c853d1d85c017cc3262",
+      "5d299c853d1d85c017cc3265",
+      "5d299c853d1d85c017cc3272",
+      "5d299c853d1d85c017cc3276",
+      "5d299c853d1d85c017cc3280",
+      "5d299c853d1d85c017cc3292",
+      "5d299c853d1d85c017cc3293",
+      "5d299c853d1d85c017cc3324",
+      "5d299c853d1d85c017cc3326",
+      "5d299c853d1d85c017cc3327",
+      "5d299c853d1d85c017cc3332",
+      "5d299c853d1d85c017cc3335",
+      "5d299c853d1d85c017cc3341",
+      "5d299c853d1d85c017cc3346",
+      "5d299c853d1d85c017cc3347",
+      "5d299c853d1d85c017cc3352",
+      "5d299c853d1d85c017cc3353",
+      "5d299c853d1d85c017cc3354",
+      "5d299c853d1d85c017cc3357",
+      "5d299c853d1d85c017cc3360",
+      "5d299c853d1d85c017cc3361",
+      "5d299c853d1d85c017cc3363",
+      "5d299c853d1d85c017cc3365",
+      "5d299c853d1d85c017cc3374",
+      "5d299c853d1d85c017cc3377",
+      "5d299c853d1d85c017cc3390",
+      "5d299c853d1d85c017cc3391",
+      "5d299c853d1d85c017cc3401",
+      "5d299c853d1d85c017cc3402",
+      "5d299c853d1d85c017cc3405",
+      "5d299c853d1d85c017cc3423",
+      "5d299c853d1d85c017cc3435",
+      "5d299c853d1d85c017cc3437",
+      "5d299c853d1d85c017cc3438",
+      "5d299c853d1d85c017cc3439",
+      "5d299c853d1d85c017cc3440",
+      "5d299c853d1d85c017cc3452",
+      "5d299c853d1d85c017cc3453",
+      "5d299c853d1d85c017cc3467",
+      "5d299c853d1d85c017cc3468",
+      "5d299c853d1d85c017cc3469",
+      "5d299c853d1d85c017cc3471",
+      "5d299c853d1d85c017cc3492",
+      "5d299c853d1d85c017cc3493"
+    ],
+    "created": "2017-11-18T19:33:01.173Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e21",
+    "name": "Testicle Monster Dimension",
+    "type": "Dimension",
+    "dimension": "Testicle Monster Dimension",
+    "residents": ["5d299c853d1d85c017cc3e07", "5d299c853d1d85c017cc3436"],
+    "created": "2017-11-18T19:41:01.605Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e22",
+    "name": "Signus 5 Expanse",
+    "type": "unknown",
+    "dimension": "Cromulon Dimension",
+    "residents": ["5d299c853d1d85c017cc3e24", "5d299c853d1d85c017cc3309"],
+    "created": "2017-11-18T20:27:26.218Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e23",
+    "name": "Earth (C-500A)",
+    "type": "Planet",
+    "dimension": "Dimension C-500A",
+    "residents": [
+      "5d299c853d1d85c017cc3e37",
+      "5d299c853d1d85c017cc3e91",
+      "5d299c853d1d85c017cc3176",
+      "5d299c853d1d85c017cc3183",
+      "5d299c853d1d85c017cc3195"
+    ],
+    "created": "2017-11-18T20:58:15.178Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e24",
+    "name": "Rick's Battery Microverse",
+    "type": "Microverse",
+    "dimension": "Replacement Dimension",
+    "residents": ["5d299c853d1d85c017cc3e65", "5d299c853d1d85c017cc3388"],
+    "created": "2017-11-30T11:02:41.722Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e25",
+    "name": "The Menagerie",
+    "type": "Menagerie",
+    "dimension": "unknown",
+    "residents": [
+      "5d299c853d1d85c017cc3e67",
+      "5d299c853d1d85c017cc3490",
+      "5d299c853d1d85c017cc3491"
+    ],
+    "created": "2017-11-30T11:13:46.697Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e26",
+    "name": "Earth (K-83)",
+    "type": "Planet",
+    "dimension": "Dimension K-83",
+    "residents": [null],
+    "created": "2017-11-30T11:41:11.452Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e27",
+    "name": "Hideout Planet",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": ["5d299c853d1d85c017cc3e79", "5d299c853d1d85c017cc3e84"],
+    "created": "2017-11-30T14:18:16.869Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e28",
+    "name": "Unity's Planet",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3e90",
+      "5d299c853d1d85c017cc3188",
+      "5d299c853d1d85c017cc3301",
+      "5d299c853d1d85c017cc3336",
+      "5d299c853d1d85c017cc3355",
+      "5d299c853d1d85c017cc3372"
+    ],
+    "created": "2017-11-30T14:28:54.591Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e29",
+    "name": "Dorian 5",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3e93",
+      "5d299c853d1d85c017cc3104",
+      "5d299c853d1d85c017cc3198"
+    ],
+    "created": "2017-12-01T11:36:16.463Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e30",
+    "name": "Earth (Unknown dimension)",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": ["5d299c853d1d85c017cc3e94"],
+    "created": "2017-12-01T11:49:43.923Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e31",
+    "name": "Earth (J19ζ7)",
+    "type": "Planet",
+    "dimension": "Dimension J19ζ7",
+    "residents": [null],
+    "created": "2017-12-01T12:29:27.976Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e32",
+    "name": "Roy: A Life Well Lived",
+    "type": "Game",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3106",
+      "5d299c853d1d85c017cc3393",
+      "5d299c853d1d85c017cc3449",
+      "5d299c853d1d85c017cc3450",
+      "5d299c853d1d85c017cc3451"
+    ],
+    "created": "2017-12-26T12:46:48.798Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e33",
+    "name": "Eric Stoltz Mask Earth",
+    "type": "Planet",
+    "dimension": "Eric Stoltz Mask Dimension",
+    "residents": [null],
+    "created": "2017-12-26T13:43:29.291Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e34",
+    "name": "Earth (Evil Rick's Target Dimension)",
+    "type": "Planet",
+    "dimension": "Evil Rick's Target Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3e39",
+      "5d299c853d1d85c017cc3177",
+      "5d299c853d1d85c017cc3232",
+      "5d299c853d1d85c017cc3290",
+      "5d299c853d1d85c017cc3339"
+    ],
+    "created": "2017-12-26T15:35:20.499Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e35",
+    "name": "Planet Squanch",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3e47",
+      "5d299c853d1d85c017cc3e75",
+      "5d299c853d1d85c017cc3102",
+      "5d299c853d1d85c017cc3194",
+      "5d299c853d1d85c017cc3199",
+      "5d299c853d1d85c017cc3203",
+      "5d299c853d1d85c017cc3256",
+      "5d299c853d1d85c017cc3261",
+      "5d299c853d1d85c017cc3308",
+      "5d299c853d1d85c017cc3311",
+      "5d299c853d1d85c017cc3331",
+      "5d299c853d1d85c017cc3379"
+    ],
+    "created": "2017-12-26T17:51:53.018Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e36",
+    "name": "Glaagablaaga",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [null],
+    "created": "2017-12-26T20:30:45.939Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e37",
+    "name": "Resort Planet",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [
+      "5d299c853d1d85c017cc3142",
+      "5d299c853d1d85c017cc3296",
+      "5d299c853d1d85c017cc3297",
+      "5d299c853d1d85c017cc3319",
+      "5d299c853d1d85c017cc3369"
+    ],
+    "created": "2017-12-27T20:02:59.005Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e38",
+    "name": "Interdimensional Customs",
+    "type": "Customs",
+    "dimension": "unknown",
+    "residents": ["5d299c853d1d85c017cc3144", "5d299c853d1d85c017cc3158"],
+    "created": "2017-12-29T10:37:48.281Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e39",
+    "name": "Galactic Federation Prison",
+    "type": "Space station",
+    "dimension": "unknown",
+    "residents": ["5d299c853d1d85c017cc3150"],
+    "created": "2017-12-29T12:02:33.513Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e40",
+    "name": "Gazorpazorp",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [
+      "5d299c853d1d85c017cc3168",
+      "5d299c853d1d85c017cc3211",
+      "5d299c853d1d85c017cc3376"
+    ],
+    "created": "2017-12-29T12:31:50.313Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e41",
+    "name": "Hamster in Butt World",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": ["5d299c853d1d85c017cc3153"],
+    "created": "2017-12-29T15:27:54.209Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e42",
+    "name": "Earth (Giant Telepathic Spiders Dimension)",
+    "type": "Planet",
+    "dimension": "Giant Telepathic Spiders Dimension",
+    "residents": ["5d299c853d1d85c017cc3159", "5d299c853d1d85c017cc3160"],
+    "created": "2017-12-29T16:03:28.720Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e43",
+    "name": "Alphabetrium",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3161",
+      "5d299c853d1d85c017cc3162",
+      "5d299c853d1d85c017cc3212",
+      "5d299c853d1d85c017cc3213",
+      "5d299c853d1d85c017cc3253"
+    ],
+    "created": "2017-12-29T16:08:47.694Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e44",
+    "name": "Jerryboree",
+    "type": "Daycare",
+    "dimension": "unknown",
+    "residents": [
+      "5d299c853d1d85c017cc3174",
+      "5d299c853d1d85c017cc3257",
+      "5d299c853d1d85c017cc3441",
+      "5d299c853d1d85c017cc3442",
+      "5d299c853d1d85c017cc3443",
+      "5d299c853d1d85c017cc3444",
+      "5d299c853d1d85c017cc3445",
+      "5d299c853d1d85c017cc3446"
+    ],
+    "created": "2017-12-29T17:50:19.947Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e45",
+    "name": "Krootabulon",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [null],
+    "created": "2017-12-29T19:26:06.827Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e46",
+    "name": "Zigerion's Base",
+    "type": "Space station",
+    "dimension": "Dimension C-137",
+    "residents": [
+      "5d299c853d1d85c017cc3e87",
+      "5d299c853d1d85c017cc3191",
+      "5d299c853d1d85c017cc3270",
+      "5d299c853d1d85c017cc3337"
+    ],
+    "created": "2017-12-29T19:40:07.748Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e47",
+    "name": "Pluto",
+    "type": "Dwarf planet (Celestial Dwarf)",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3192",
+      "5d299c853d1d85c017cc3307",
+      "5d299c853d1d85c017cc3419",
+      "5d299c853d1d85c017cc3420",
+      "5d299c853d1d85c017cc3421",
+      "5d299c853d1d85c017cc3422"
+    ],
+    "created": "2017-12-29T19:49:29.228Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e48",
+    "name": "Fantasy World",
+    "type": "Planet",
+    "dimension": "Fantasy Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3e41",
+      "5d299c853d1d85c017cc3193",
+      "5d299c853d1d85c017cc3238",
+      "5d299c853d1d85c017cc3333"
+    ],
+    "created": "2017-12-29T19:55:54.672Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e49",
+    "name": "Zeep Xanflorp's Miniverse",
+    "type": "Miniverse",
+    "dimension": "Replacement Dimension",
+    "residents": ["5d299c853d1d85c017cc3348"],
+    "created": "2017-12-29T19:58:44.675Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e50",
+    "name": "Kyle's Teenyverse",
+    "type": "Teenyverse",
+    "dimension": "Replacement Dimension",
+    "residents": ["5d299c853d1d85c017cc3197", "5d299c853d1d85c017cc3364"],
+    "created": "2017-12-30T12:36:19.730Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e51",
+    "name": "Larva Alien's Planet",
+    "type": "Planet",
+    "dimension": "Unknown dimension",
+    "residents": [null],
+    "created": "2017-12-30T12:48:19.312Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e52",
+    "name": "Earth (K-22)",
+    "type": "Planet",
+    "dimension": "Dimension K-22",
+    "residents": [null],
+    "created": "2017-12-30T16:33:49.507Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e53",
+    "name": "Mr. Meeseeks Box",
+    "type": "Box",
+    "dimension": "unknown",
+    "residents": [null],
+    "created": "2017-12-30T17:52:12.217Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e54",
+    "name": "Vindicator's Base",
+    "type": "Spacecraft",
+    "dimension": "unknown",
+    "residents": ["5d299c853d1d85c017cc3252"],
+    "created": "2017-12-31T12:57:37.824Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e55",
+    "name": "Pawn Shop Planet",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": ["5d299c853d1d85c017cc3258"],
+    "created": "2017-12-31T13:30:33.579Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e56",
+    "name": "Mega Gargantuan Kingdom",
+    "type": "Microverse",
+    "dimension": "Replacement Dimension",
+    "residents": ["5d299c853d1d85c017cc3269"],
+    "created": "2017-12-31T14:01:44.921Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e57",
+    "name": "Gear World",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [
+      "5d299c853d1d85c017cc3282",
+      "5d299c853d1d85c017cc3447",
+      "5d299c853d1d85c017cc3448"
+    ],
+    "created": "2017-12-31T19:21:17.276Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e58",
+    "name": "Earth (D-99)",
+    "type": "Planet",
+    "dimension": "Dimension D-99",
+    "residents": [null],
+    "created": "2017-12-31T19:49:55.109Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e59",
+    "name": "Earth (D716)",
+    "type": "Planet",
+    "dimension": "Dimension D716",
+    "residents": [null],
+    "created": "2017-12-31T19:51:33.170Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e60",
+    "name": "Earth (D716-B)",
+    "type": "Planet",
+    "dimension": "Dimension D716-B",
+    "residents": [null],
+    "created": "2017-12-31T19:55:25.026Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e61",
+    "name": "Earth (D716-C)",
+    "type": "Planet",
+    "dimension": "Dimension D716-C",
+    "residents": [null],
+    "created": "2017-12-31T19:57:36.468Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e62",
+    "name": "Earth (J-22)",
+    "type": "Planet",
+    "dimension": "Dimension J-22",
+    "residents": [null],
+    "created": "2017-12-31T20:16:52.263Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e63",
+    "name": "Froopyland",
+    "type": "Artificially generated world",
+    "dimension": "Replacement Dimension",
+    "residents": ["5d299c853d1d85c017cc3350"],
+    "created": "2018-01-10T17:55:14.227Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e64",
+    "name": "Detoxifier",
+    "type": "Machine",
+    "dimension": "Replacement Dimension",
+    "residents": [null],
+    "created": "2018-01-10T18:20:41.627Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e65",
+    "name": "Trunk World",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [null],
+    "created": "2018-01-10T19:03:13.484Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e66",
+    "name": "Plopstar",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": ["5d299c853d1d85c017cc3371"],
+    "created": "2018-01-10T19:56:57.717Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e67",
+    "name": "Blips and Chitz",
+    "type": "Arcade",
+    "dimension": "Replacement Dimension",
+    "residents": ["5d299c853d1d85c017cc3242"],
+    "created": "2018-01-21T19:01:19.496Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e68",
+    "name": "Girvonesk",
+    "type": "unknown",
+    "dimension": "unknown",
+    "residents": [null],
+    "created": "2018-04-15T16:39:38.598Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e69",
+    "name": "Earth (C-35)",
+    "type": "Planet",
+    "dimension": "Dimension C-35",
+    "residents": [null],
+    "created": "2018-04-15T16:55:56.212Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e70",
+    "name": "Snuffles' Dream",
+    "type": "Dream",
+    "dimension": "Dimension C-137",
+    "residents": ["5d299c853d1d85c017cc3397", "5d299c853d1d85c017cc3398"],
+    "created": "2018-04-15T17:13:54.071Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e71",
+    "name": "Earth (Pizza Dimension)",
+    "type": "Planet",
+    "dimension": "Pizza Dimension",
+    "residents": ["5d299c853d1d85c017cc3424", "5d299c853d1d85c017cc3425"],
+    "created": "2018-04-15T17:55:04.478Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e72",
+    "name": "Earth (Phone Dimension)",
+    "type": "Planet",
+    "dimension": "Phone Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3404",
+      "5d299c853d1d85c017cc3427",
+      "5d299c853d1d85c017cc3428"
+    ],
+    "created": "2018-04-15T17:56:09.117Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e73",
+    "name": "Greasy Grandma World",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": ["5d299c853d1d85c017cc3426"],
+    "created": "2018-04-16T21:50:20.144Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e74",
+    "name": "Earth (Chair Dimension)",
+    "type": "Planet",
+    "dimension": "Chair Dimension",
+    "residents": [
+      "5d299c853d1d85c017cc3429",
+      "5d299c853d1d85c017cc3430",
+      "5d299c853d1d85c017cc3431",
+      "5d299c853d1d85c017cc3432"
+    ],
+    "created": "2018-04-16T21:58:24.292Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e75",
+    "name": "Árboles Mentirosos",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [null],
+    "created": "2018-05-01T15:27:20.251Z"
+  },
+  {
+    "_id": "5d299a853d1d85c017cc3e76",
+    "name": "Alien Day Spa",
+    "type": "Spa",
+    "dimension": "unknown",
+    "residents": ["5d299c853d1d85c017cc3470"],
+    "created": "2018-05-22T20:49:01.820Z"
+  }
+]

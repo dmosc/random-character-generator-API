@@ -1,8 +1,5 @@
 /node_modules
 /README.md
 
-#field population
-/seeds
-
 #env
 .env
